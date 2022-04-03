@@ -1,0 +1,25 @@
+.mod
+{
+	border:2px solid black;
+	background-color:#FDF2E9
+
+}
+.brdr
+{
+	border: 2px solid; 
+	border-radius: 4px;
+	height: 30px;
+	width: 400px;
+	padding-left: 10px;
+}
+body
+		{
+			background-image: url("../images/p_page.jpg");
+			    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+		}
+

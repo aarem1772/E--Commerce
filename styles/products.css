@@ -1,0 +1,27 @@
+#products_box {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-left: 30px
+	margin-bottom:10px;
+	margin-top:10px;
+	text-decoration: none;
+	padding-left: 150px;
+}
+
+#single_product{ float:left; margin-left:20px; padding:10px; margin-bottom: 20px; height: 350px; width: 300px}
+#single_product{border:2px solid #3498DB; border-radius: 15px}
+#s_product{float:left; margin-left:20px; padding:10px; margin-top: 10px; margin-bottom: 20px; height: 350px; width: 300px}
+#s_product{border:2px solid #3498DB; border-radius: 15px}
+#p_box{padding-left: 150px;}
+
+#ofr_ar
+{
+	clear:both;
+}
+
+#featured_brands
+{
+	float:left;
+	cursor: pointer;
+
+}
